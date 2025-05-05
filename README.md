@@ -1,4 +1,4 @@
-# FramkeWork de MVC com PHP
+# FrameWork de MVC com PHP
 
 ## Descrição
 
